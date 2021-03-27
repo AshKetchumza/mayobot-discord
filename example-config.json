@@ -1,0 +1,10 @@
+{
+    "API": "",
+    "BOT_TOKEN": "",
+    "PREFIX": "",
+    "CHANNEL_ONE_ID": "",
+    "CHANNEL_ONE_SR": "",
+    "CHANNEL_TWO_ID": "",
+    "CHANNEL_TWO_SR": "",
+    "POST_TIMEOUT_MS": 5000
+}
